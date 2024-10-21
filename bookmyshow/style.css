@@ -1,0 +1,50 @@
+.logo{
+    position: relative;
+    width: 14%;
+    margin-left:25%;
+}
+.searchbar{
+    position: relative;
+    left: -98%;
+}
+.kochibtn{
+    position: relative;
+
+}
+.main ul{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 11%;
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+.main li{
+    float: left;
+}
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.streamdiv{
+    position: relative;
+    
+}
+.imgdetails{
+    width: 100%;
+}
+.foot{
+    background-color: rgb(44, 44, 44);
+    width: 100%;
+    position: absolute;
+}
+.maindiv{
+    background-color: rgb(55, 53, 53);
+    height: 90px;
+}
+.maindiv a{
+    text-decoration: none;
+    margin-left:20%;
+}
